@@ -1,0 +1,6 @@
+# useless files
+/.idea/*
+/cmake-build-*
+
+# trash that i generate
+log.txt
